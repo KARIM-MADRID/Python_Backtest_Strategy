@@ -1,0 +1,2 @@
+# Python_Backtest_Strategy
+MACD , RSI , BBAND ,EMA CROSSOVER STRATEGY  WITH BACK TEST 
